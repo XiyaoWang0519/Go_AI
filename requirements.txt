@@ -1,0 +1,6 @@
+Build an Neural Network model to play Go.
+
+1. Start with a fully implemented game environment.
+2. Implement a Neural Network to play Go.
+3. Implement a self-play system to train the neural network model.
+4. Design a UI to show the game during training.
